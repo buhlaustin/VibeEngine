@@ -1,0 +1,11 @@
+{
+  "formatVersion": 1,
+  "name": "Main",
+  "entities": [
+    {
+      "id": "player",
+      "name": "Player",
+      "transform": { "x": 0, "y": 0, "z": 0 }
+    }
+  ]
+}

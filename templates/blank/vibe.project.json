@@ -1,0 +1,6 @@
+{
+  "formatVersion": 1,
+  "name": "BlankGame",
+  "engineVersion": "0.1.0",
+  "defaultScene": "scenes/main.scene.json"
+}
